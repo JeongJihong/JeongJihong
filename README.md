@@ -47,7 +47,8 @@
 ---
 
 ## Happy House
-[레포](https://github.com/JeongJihong/WebDesign), [PPT](https://drive.google.com/file/d/1a5wV4l9msuZzTvI3feDLFFwFVXjdtpki/view?usp=sharing)
+[Front레포](https://github.com/JeongJihong/FINAL-PJT-VUE), [Back레포](https://github.com/JeongJihong/FINAL-PJT-SPRING), [PPT](https://drive.google.com/file/d/1hHkwAXKkgLX-B_tvxCwKunNy1MMuGZMo/view), [시연](https://drive.google.com/file/d/1lzRFq-VX0J9Npa8tHyKKOwCJO68nU_cH/view)
+
 **주택 주변 상권 비교 서비스**
 
 사용자에게 간편히 원하는 주택/아파트들의 주변 상권, 역세권 정보를 비교할 수 있게 하여 집을 고르는데 도움을 주는 웹 사이트
@@ -70,7 +71,8 @@ SpringBoot,  Vue.js, MyBatis, MySQL
 ✅ 메인페이지 구성
 
 ## Pipl
-레포, PPT
+[레포](https://github.com/JeongJihong/WebDesign), [PPT](https://drive.google.com/file/d/1a5wV4l9msuZzTvI3feDLFFwFVXjdtpki/view?usp=sharing)
+
 **SNS상에서 모임/약속을 쉽게 잡아주는 소셜 플랫폼**
 
 약속을 잡는데 불필요한 연락을 줄여주고, 약속시간 전 약속 참여자들의 위치를 확인할 수 있는 모바일 웹서비스
