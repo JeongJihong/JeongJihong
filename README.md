@@ -138,4 +138,8 @@ SpringBoot,  Vue.js, JPA, MySQL
 
 - 2019.11.22 취득
 
+## 컴퓨터활용능력 1급
+
+- 2020.07.24 취득
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGJIHONG&show_icons=true&theme=radical)
