@@ -97,6 +97,7 @@ SpringBoot,  Vue.js, JPA, MySQL
 ✅ 스크랩 기능 구현
 
 ## Lead Me
+[PPT](https://drive.google.com/file/d/1tluXbhSzyyBvd6mp2lR2ScUOwYScC0bg/view?usp=sharing)
 
 **프로젝트 설명**
 ‘영화 추천서비스’에 ‘MBTI’라는 재미요소를 더한 서비스에 이제 ‘데이터 시각화’를 곁들인
